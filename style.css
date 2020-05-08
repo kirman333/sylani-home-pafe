@@ -1,0 +1,170 @@
+.main_1st{
+        display: flex;
+}
+
+.first,.second,.third{
+    width: 400px;
+    background-color: steelblue;
+}
+
+.second{
+    word-wrap: normal;
+    text-align: center;
+}
+.third{
+    text-align: right;
+}
+
+
+table{
+    padding: 20px;
+    position: absolute;
+    right: 4px;
+    top: auto;    
+    color: gray;
+    display: inline-block;
+    box-shadow: steelblue;
+    
+}
+
+
+p5{
+    background-color: steelblue;
+    text-size-adjust: 5px;
+}
+
+h1{
+    text-align: center;
+    color: green
+}
+
+h2{
+    text-align: center;
+}
+
+
+.main {
+    display: flex;
+    border-spacing: 2px;
+    line-break: auto;
+}
+
+.one,.two,.three,.four{
+    border: 6px solid steelblue;
+    background-color:steelblue;
+    text-align: center;
+    width: 400px;
+    color: white;
+}
+
+
+h3{
+    text-align: center;
+    text-size-adjust: 20px;
+    color: green
+}
+
+h4{
+    text-align: center;
+    text-size-adjust: 8px;
+}
+
+.main_two{
+    display: flex;
+    text-align: center;
+}
+
+.eleven,.twelve,.thirteen{
+            width: 950px;
+            box-shadow: gray;
+            background-color: white;
+            color: steelblue;
+}
+
+
+.main_three{
+    display: flex;
+    text-align: center;
+}
+
+.fifteen,.sixteen,.seventeen{
+            width: 800px;
+            box-shadow: gray;
+            background-color: white;
+            color: steelblue;
+}
+
+.main_four{
+    display: flex;
+    text-align: center;
+    
+}
+
+.eighteen,.nineteen{
+    color: steelblue;
+    width: 1500px;
+}
+
+.main_five{
+    display: flex;
+}
+
+.twenty,.twentyone{
+    width: 400px;
+    color: steelblue;
+}
+
+.twentytwo{
+    color: gray;
+    
+}   
+
+.main_six{
+    display: flex;
+}
+
+.twentythree,.twentyfour{
+    width: 400px;
+    color: steelblue;
+}
+
+.twentyfive{
+    color: gray;
+}
+
+h5{
+    text-align: center;
+    color: green
+}
+
+h6{
+    text-align: center;
+}
+
+.main_eight{
+    text-align: center;
+}
+
+.twentyseven{
+    color: white;  
+    background-color: gray;  
+}
+
+.main_nine{
+    display: flex;
+    
+}
+
+.twentyeight,.twentynine{
+        width: 600px;
+        background-color: gray;
+        color: white;
+}
+
+
+.thirty{
+    text-align: left;
+    background-color: gray;
+    color: white;
+}
+
